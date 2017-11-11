@@ -10,7 +10,7 @@ Already added commands:
 Yet to come:
   * how much does x cost?                #search for prices online
   * Maths                                #calculate stuff
-  * continued conversation               #answer questions based on previous answer (how much does x cost? _$1_ how much is that in euros? _€0.86_
+  * continued conversation               #answer questions based on previous answer (how much does x cost? _$1_ how much is that in euros? _€0.86_)
   * launch applications                  #start any program
   * play music
   * ...and much more
