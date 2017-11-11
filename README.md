@@ -3,9 +3,9 @@
 SpeechR takes voice commands and excecutes them.
 
 Already added commands:
-  * press X                              #simulates a keypress, you can input single keys, phrases or combinations of keys(WIP)
-  * search foo.com/bar _or_ search foo   #inputs a URL or Google search into Firefox
-  * and                                  #append commands (press x and search foo)
+  * press X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#simulates a keypress, you can input single keys, phrases or combinations of keys(WIP)
+  * search foo.com/bar _or_ search foo&nbsp;#inputs a URL or Google search into Firefox
+  * and&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#append commands (press x and search foo)
  
 Yet to come:
   * how much does x cost?                #search for prices online
