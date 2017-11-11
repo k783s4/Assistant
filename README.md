@@ -1,6 +1,7 @@
 # Assistant
-                                                    This program is a WIP
+                                                This program is a WIP
 SpeechR takes voice commands and excecutes them.
+
 Already added commands:
   * press X                              #simulates a keypress, you can input single keys, phrases or combinations of keys(WIP)
   * search foo.com/bar _or_ search foo   #inputs a URL or Google search into Firefox
