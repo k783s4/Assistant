@@ -25,9 +25,15 @@ def slect():
 
 def press(x):
     try:
-        pyautogui.press(x)                                                      #emulate a key press
+        if " " not in x:
+            pyautogui.press(x)
+        else:
+            xs = x.split(" ")
+            pyautogui.hotkey(xs)                                                          #emulate a key press
     except:
         print("Whoops, %s is not a valid Argument!!" % (x))
+def write(x):
+    pyautogui.typewrite(x)
 def search(x):
     x = x.replace("slash","/")
     x = x.replace(" ","")
